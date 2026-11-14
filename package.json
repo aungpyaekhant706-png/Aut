@@ -1,11 +1,9 @@
-
 {
   "name": "shwe-lottery-bot",
   "version": "1.0.0",
-  "description": "Shwe Lottery Telegram Bot",
-  "main": "ShweLotteryBot.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node ShweLotteryBot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "telegraf": "^4.16.3",
